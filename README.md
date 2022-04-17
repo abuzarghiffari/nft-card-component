@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-card-component-ByA5xrFEc)
 - Live Site URL: [Add live site URL here](https://nft-card-component-zar.netlify.app/)
 
 ## My process
